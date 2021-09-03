@@ -1,0 +1,1 @@
+python joomla-bruteforce/joomla-brute.py -u "http://192.168.1.111:8080/joomla/" -w "C:/PyCharm folder/SPAM/Ddos/passlist.txt" -usr ivailo -userlist user.txt
